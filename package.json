@@ -1,0 +1,20 @@
+{
+  "name": "vue3-backup",
+  "version": "1.0.0",
+  "description": "- reactive 让数据变成响应式的  es6 Proxy - effect",
+  "main": "rollup.config.js",
+  "dependencies": {
+    "rollup": "^2.38.2",
+    "rollup-plugin-typescript2": "^0.29.0",
+    "typescript": "^4.1.3",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
